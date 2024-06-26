@@ -1,4 +1,4 @@
-
+# CLASE 1
 # Preguntas y Respuestas sobre el Área de TI
 
 ## ¿Cuál ha sido la evolución del área de TI en las empresas y su importancia actual?
