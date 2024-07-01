@@ -2,7 +2,7 @@
 
 ## Introducción a COBIT 5
 
-Buenos días, hoy voy a exponer sobre COBIT 5, un marco de referencia para la gobernanza y gestión de la tecnología de la información (TI) en las organizaciones. COBIT 5 fue desarrollado por ISACA y es ampliamente utilizado a nivel mundial para ayudar a las organizaciones a alinear sus TI con los objetivos del negocio, gestionar riesgos y asegurar el valor de la tecnología.
+COBIT 5 es un marco de referencia para la gobernanza y gestión de la tecnología de la información (TI) en las organizaciones. COBIT 5 fue desarrollado por ISACA y es ampliamente utilizado a nivel mundial para ayudar a las organizaciones a alinear sus TI con los objetivos del negocio, gestionar riesgos y asegurar el valor de la tecnología.
 
 ## Principios de COBIT 5
 
@@ -130,5 +130,4 @@ COBIT 5 proporciona numerosos beneficios a las organizaciones, tales como:
 
 En resumen, COBIT 5 es una herramienta integral y flexible que permite a las organizaciones gestionar y gobernar su TI de manera eficiente y efectiva, alineándola con los objetivos del negocio y asegurando el valor de las inversiones en tecnología.
 
-Gracias por su atención. ¿Tienen alguna pregunta?
 
