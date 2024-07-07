@@ -621,8 +621,4 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 **Pregunta de Examen: ¿Cómo se relacionan IT Compliance y Gobierno de IT?**
 **Respuesta: IT Compliance asegura el cumplimiento de normativas y regulaciones, y es un factor inductor del Gobierno de IT, que a su vez garantiza la alineación de la estrategia de IT con la del negocio.**
 
-## Conclusión de la Clase
-- La unidad número dos ha sido completada. Estudien todo el contenido, especialmente los roles, procesos, estructuras organizacionales, matriz RASI, y los hitos para implementar un gobierno de IT.
-
-
 ---
