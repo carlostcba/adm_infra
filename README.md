@@ -113,13 +113,21 @@
 
 **Ejemplos de Normas**
 
-- ISO 27001 y 27002.
-- PCI DSS / PCI PA-DSS.
-- Sarbanes Oxley.
-- Ley de protección de datos personales (25326).
-- BCRA “A” 4609 / 5374 / 6375.
-- COBIT.
-- ITIL.
+- **ISO 27001** : es una norma internacional que especifica los requisitos para establecer, implementar, mantener y mejorar un Sistema de Gestión de Seguridad de la Información (SGSI). Su objetivo principal es proteger la confidencialidad, integridad y disponibilidad de la información mediante la aplicación de un proceso de gestión de riesgos.
+- **ISO 27002** : complementa la ISO 27001 proporcionando directrices de mejores prácticas sobre los controles de seguridad de la información que se deben implementar. Incluye una serie de controles, como políticas de seguridad, organización de la seguridad, gestión de activos, control de acceso y criptografía, entre otros.
+
+- **PCI DSS (Payment Card Industry Data Security Standard)** : es un conjunto de requisitos diseñados para asegurar que todas las empresas que procesan, almacenan o transmiten información de tarjetas de crédito mantengan un entorno seguro. Incluye medidas de control como la protección de datos almacenados, cifrado de transmisión de datos de titulares de tarjetas, y monitoreo y pruebas regulares de redes.
+- **PCI PA-DSS (Payment Application Data Security Standard)** : se aplica a los desarrolladores de aplicaciones de pago y está destinado a garantizar que las aplicaciones de pago soporten la conformidad con PCI DSS. Se enfoca en la seguridad de las aplicaciones de software que manejan datos de pago.
+
+- **Sarbanes Oxley** : es una ley de los Estados Unidos que establece nuevas o mejoradas normas para la administración y el consejo de las empresas públicas. La ley fue promulgada en respuesta a varios grandes escándalos financieros corporativos. Sus secciones más relevantes en el contexto de TI son las que tratan sobre la responsabilidad de la administración y los controles internos, como la Sección 404, que requiere que las empresas mantengan un control interno adecuado y reporten sobre la efectividad de esos controles.
+  
+- **Ley de protección de datos personales (25326)** : protege los datos personales registrados en archivos, registros, bancos de datos, u otros medios técnicos. Establece principios para la recolección y tratamiento de datos personales, derechos de los titulares de los datos, obligaciones de los responsables de los archivos y las sanciones por incumplimiento. Su objetivo principal es garantizar la privacidad de los individuos y proteger sus datos personales contra usos no autorizados.
+  
+- **BCRA “A” 4609 / 5374 / 6375** Estas comunicaciones del Banco Central de la República Argentina (BCRA) establecen normas y procedimientos específicos para las entidades financieras en relación con la seguridad de la información y la prevención del fraude. Incluyen directrices sobre la gestión de riesgos tecnológicos, controles internos, y la implementación de medidas de seguridad para proteger la información y los sistemas críticos de las entidades financieras.
+  
+- **COBIT 5 (Control Objectives for Information and Related Technologies)** :  es un marco de gobierno y gestión de TI desarrollado por ISACA. Proporciona un modelo integral que ayuda a las organizaciones a alcanzar sus objetivos estratégicos mediante la gestión y el gobierno efectivo de la tecnología de la información. COBIT 5 cubre todas las áreas de TI y alinea las metas de TI con los objetivos del negocio.
+  
+- **ITIL v4 (Information Technology Infrastructure Library)** : es un conjunto de prácticas para la gestión de servicios de TI (ITSM) que se enfoca en la alineación de los servicios de TI con las necesidades del negocio. ITIL v4 introduce un enfoque más flexible y adaptable, incorporando principios como la co-creación de valor, la gestión de servicios como un sistema y la mejora continua. Su objetivo es mejorar la eficiencia, efectividad y satisfacción del cliente en la entrega de servicios de TI.
 
 ### Ciclo PHVA (PDCA) o Ciclo de Deming
 
