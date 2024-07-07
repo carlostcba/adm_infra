@@ -3,8 +3,6 @@
 
 ---
 
-## Clase 1
-
 ### Situación Actual del Área de IT
 
 - Cambios constantes.
@@ -95,8 +93,6 @@
 **Ejemplo:** Las empresas demandan que el área de TI implemente soluciones de virtualización para reducir costos de hardware. En lugar de tener 30 servidores físicos, pueden tener tres o cuatro servidores físicos que alberguen 30 servidores virtuales. Además, la adopción de servicios en la nube permite a las empresas pagar solo por los recursos que realmente utilizan, optimizando aún más los costos.
 
 ---
-
-## Clase 2
 
 ### Normas Técnicas
 
@@ -256,8 +252,6 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 - **Recursos de Compliance:** Contar con un equipo dedicado y experimentado para implementar y ejecutar las políticas de compliance de manera efectiva.
 
 ---
-
-## Clase 3
 
 ### IT Compliance
 
@@ -481,11 +475,9 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 
 ---
 
-# Unidad 2 - Clase 4: Gobierno de IT
+# Unidad 2 - Gobierno de IT
 
 ---
-
-## Clase 4
 
 ## Introducción a la unidad 2: Gobierno de IT
 
@@ -559,7 +551,7 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 - **Respuesta**: Un factor crítico es algo que debe estar presente para que el gobierno de IT funcione, como conocer los objetivos, tener herramientas adecuadas, establecer mecanismos de medición y control, adecuar soluciones a medida y alinearse con las iniciativas en curso.
 
 ---
-## Clase 5: Organización del Área de IT
+## Organización del Área de IT
 ---
 
 ## Organización del Área de IT
