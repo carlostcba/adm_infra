@@ -162,6 +162,15 @@ Las normas técnicas se basan en resultados de experiencias, buenas prácticas y
 - **Beneficios Sociales:** Deben mejorar la calidad de vida y ser aprobadas por organismos reconocidos a nivel nacional, regional o internacional.
 - **Disponibilidad y Voluntariedad:** Las normas deben estar disponibles al público y ser voluntarias, salvo que alguna disposición legal las haga obligatorias.
 
+**Pregunta de examen**: ¿los lineamientos de la estructura de la norma y el resumen de requerimientos son lo mismo?
+- **Respuesta**:
+- En varios casos, la estructura de la norma y los requerimientos pueden ser lo mismo, pero no siempre.
+- Ejemplo de leyes y normativas: la estructura de una norma se refiere a su constitución (artículos, fascículos, secciones), mientras que los requerimientos son las necesidades específicas para el cliente.
+- En PCI DSS, la estructura refiere a artículos y secciones, mientras que los requerimientos son las necesidades del cliente, como tener un órgano de control y auditorías internas.
+  
+**Pregunta de examen**: ¿Cuál es la diferencia entre estructura y requerimientos en una norma?
+- **Respuesta**: La estructura se refiere a cómo está constituida la norma (artículos, secciones), mientras que los requerimientos son las necesidades específicas que la norma impone al cliente.
+
 ## Metodología PHVA (Plan-Do-Check-Act)
 
 ### Pasos de la Metodología
@@ -484,23 +493,7 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 
 ## Clase 4
 
-## Pregunta sobre trabajo práctico y estructura de normas
-
-**Pregunta de Gastón sobre el trabajo práctico y estructura de normas**:
-- Gastón preguntó si dentro de los lineamientos de la estructura de la norma y el resumen de requerimientos son lo mismo.
-- Mencionó que PCI DSS tiene 12 requerimientos y PSC tiene 14, lo cual puede ser confuso.
-
-**Respuesta a la pregunta de Gastón**:
-- En varios casos, la estructura de la norma y los requerimientos pueden ser lo mismo, pero no siempre.
-- Ejemplo de leyes y normativas: la estructura de una norma se refiere a su constitución (artículos, fascículos, secciones), mientras que los requerimientos son las necesidades específicas para el cliente.
-- En PCI DSS, la estructura refiere a artículos y secciones, mientras que los requerimientos son las necesidades del cliente, como tener un órgano de control y auditorías internas.
-  
-**Pregunta de examen**: ¿Cuál es la diferencia entre estructura y requerimientos en una norma?
-- **Respuesta**: La estructura se refiere a cómo está constituida la norma (artículos, secciones), mientras que los requerimientos son las necesidades específicas que la norma impone al cliente.
-
 ## Introducción a la unidad 2: Gobierno de IT
-
-
 
 **Definición de Gobierno de IT**:
 - El gobierno de IT son las acciones que realiza el área de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
@@ -571,4 +564,65 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 **Pregunta de examen**: ¿Qué es un factor crítico del gobierno de IT?
 - **Respuesta**: Un factor crítico es algo que debe estar presente para que el gobierno de IT funcione, como conocer los objetivos, tener herramientas adecuadas, establecer mecanismos de medición y control, adecuar soluciones a medida y alinearse con las iniciativas en curso.
 
+---
+## Clase 5: Organización del Área de IT
+---
 
+## Organización del Área de IT
+- La organización del área de IT es fundamental en cualquier empresa. El organigrama define los roles y la cantidad de personal necesario. Dependiendo del tamaño de la empresa, puede ser simple o complejo.
+- Un buen organigrama debe estructurarse pensando en las necesidades de la organización para los próximos cinco años, aunque esto puede reducirse a tres años debido a los cambios tecnológicos.
+
+## Áreas Comunes en el Departamento de IT
+- **Administración de Servidores**: Encargados de gestionar las plataformas y servidores.
+- **Base de Datos**: Coordinadores o gerentes de bases de datos.
+- **Desarrollo**: Incluye áreas como desarrollo, QA, y manejo de proveedores.
+- **Microinformática**: Mantenimiento de endpoints (PCs, notebooks, impresoras), mesa de ayuda, y gestión de tickets.
+- **Infraestructura**: Administración de servidores, bases de datos, backend, sistemas operativos, y soluciones de backup.
+- **Seguridad Informática**: Gestión de la seguridad tecnológica, firewalls, roles y accesos, y seguridad física.
+- **Administración de Proyectos**: PMO (Project Management Office), gerentes de proyectos.
+
+**Pregunta de Examen: ¿Cuáles son las áreas comunes dentro del departamento de IT?**
+**Respuesta: Administración de Servidores, Base de Datos, Desarrollo, Microinformática, Infraestructura, Seguridad Informática, y Administración de Proyectos.**
+
+## Estructuras Organizacionales
+- **Basada en Proyectos**: Empresas que brindan servicios profesionales a clientes externos, con una estructura flexible y adaptable.
+- **Estructura Federal**: Un área centralizada de IT para soporte de infraestructura y aplicaciones corporativas, con cada unidad de negocio teniendo sus propios desarrollos y presupuestos.
+- **Descentralizada**: Por unidad de negocio, grupo operativo, subsidiaria o geografía, con cada filial teniendo su propio CIO y presupuesto independiente.
+- **Centralizada**: Depende de un único CIO o director de sistemas, con recursos y presupuestos centralizados a nivel corporativo, implementando una estrategia única en todas las filiales.
+
+**Pregunta de Examen: Describa las cuatro estructuras organizacionales bien constituidas en el área de IT.**
+**Respuesta: Basada en Proyectos, Estructura Federal, Descentralizada y Centralizada.**
+
+## Matriz RASI
+- La matriz RASI (Responsable, Aprobador, Consultado, Informado) es una herramienta para la administración de proyectos y tareas.
+  - **Responsable**: Quien realiza la tarea.
+  - **Aprobador**: Quien garantiza que la tarea se complete y rinde cuentas.
+  - **Consultado**: Quien tiene el conocimiento necesario y con quien se consulta durante la ejecución de la tarea.
+  - **Informado**: Quien se mantiene informado sobre el avance y los resultados de la tarea.
+
+**Pregunta de Examen: ¿Qué es la matriz RASI y cuáles son sus componentes?**
+**Respuesta: Es una herramienta para la administración de proyectos y tareas, que incluye Responsable, Aprobador, Consultado e Informado.**
+
+## Implementación del Gobierno de IT
+- **Relevar el Área de IT**: Identificar brechas, definir nuevos roles y establecer un plan de acción.
+- **Preparar el Marco de Referencia**: Definir roles y responsabilidades, crear canales de comunicación y establecer la estructura de gestión.
+- **Diseñar Procesos de Gobierno de IT**: Definir políticas, procesos, KPIs y requerimientos de reportes.
+- **Implementar Herramientas de Soporte**: Herramientas para la recolección de datos, reportes y administración.
+- **Establecer un Plan de Mejora Continua**: Monitorear la ejecución de la estrategia de IT, definir un comité directivo y revisar periódicamente la estrategia.
+
+**Pregunta de Examen: ¿Cuáles son los hitos importantes para implementar un gobierno de IT?**
+**Respuesta: Relevar el Área de IT, Preparar el Marco de Referencia, Diseñar Procesos de Gobierno de IT, Implementar Herramientas de Soporte, y Establecer un Plan de Mejora Continua.**
+
+## IT Compliance y Gobierno de IT
+- **IT Compliance** asegura que se cumplen todas las normativas y regulaciones necesarias para el segmento de mercado.
+- **Gobierno de IT** incluye IT Compliance como un factor inductor y asegura la alineación de la estrategia de IT con la del negocio.
+- Revisar periódicamente la estrategia de IT y mejorar el gobierno mediante la experiencia y el ciclo de Deming.
+
+**Pregunta de Examen: ¿Cómo se relacionan IT Compliance y Gobierno de IT?**
+**Respuesta: IT Compliance asegura el cumplimiento de normativas y regulaciones, y es un factor inductor del Gobierno de IT, que a su vez garantiza la alineación de la estrategia de IT con la del negocio.**
+
+## Conclusión de la Clase
+- La unidad número dos ha sido completada. Estudien todo el contenido, especialmente los roles, procesos, estructuras organizacionales, matriz RASI, y los hitos para implementar un gobierno de IT.
+
+
+---
