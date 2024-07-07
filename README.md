@@ -334,28 +334,78 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 
 # Temas y Conceptos Clave
 
-## SLA (Service Level Agreement)
-**Definición y Significado:**
+# SLA (Service Level Agreement)
+
+## Definición y Significado
 - Un SLA es un acuerdo entre un cliente y un proveedor que establece las pautas y métricas para el nivel de servicio esperado.
 - Ejemplo: Si el cliente contrata un servicio con un SLA del 99.9% de disponibilidad, significa que el proveedor debe garantizar que el servicio esté activo y funcionando el 99.9% del tiempo.
 
-**Métricas y Medición:**
+## Métricas y Medición
 - **Disponibilidad:** Se mide en franjas horarias, como 24/7 o de lunes a viernes de 8 a 18.
 - **Tasa de Fallas:** Cantidad de errores o problemas en el servicio.
 - **Mantenimiento:** Ventanas de mantenimiento acordadas que no cuentan como tiempo de inactividad.
 
-**Componentes Administrativos:**
+## Componentes Administrativos
 - **Método de Medición:** Debe ser sencillo y no oneroso.
 - **Proceso de Reporte:** Frecuencia y métodos de monitoreo.
 - **Resolución de Disputas:** Procedimientos y cláusulas de indemnización.
 
-**Importancia del SLA:**
+## Importancia del SLA
 - **Claridad y Entendimiento:** Asegura que ambas partes tengan el mismo entendimiento del acuerdo.
 - **Ejecución y Responsabilidades:** Define las responsabilidades y expectativas, y las sanciones en caso de incumplimiento.
 
-**Pregunta de Examen:**
-- ¿Qué significa SLA y por qué es importante en un contrato de servicios tecnológicos?
+## Pregunta de Examen
+- **¿Qué significa SLA y por qué es importante en un contrato de servicios tecnológicos?**
   - **Respuesta:** SLA significa Service Level Agreement, y es importante porque establece las pautas y métricas para el nivel de servicio esperado, asegurando claridad y entendimiento entre el proveedor y el cliente.
+
+## ¿Qué es un KPI?
+**KPI (Key Performance Indicator)** o Indicador Clave de Rendimiento es una métrica utilizada para evaluar el éxito de una organización, un departamento, un proyecto o una iniciativa específica en alcanzar sus objetivos estratégicos y operativos. Los KPIs son herramientas esenciales para la gestión empresarial, ya que proporcionan una visión clara del rendimiento y permiten tomar decisiones informadas.
+
+## Otros Componentes de un SLA
+### 1. **Descripción del Servicio**
+   - Detalle del servicio ofrecido.
+   - Alcance del servicio, incluyendo qué está y qué no está cubierto.
+   - Características del servicio.
+
+### 2. **Niveles de Servicio**
+   - **Disponibilidad:** Porcentaje de tiempo que el servicio estará disponible (por ejemplo, 99.9% uptime).
+   - **Rendimiento:** Métricas relacionadas con la velocidad y la eficiencia del servicio.
+   - **Capacidad de Respuesta:** Tiempos de respuesta a solicitudes y problemas.
+
+### 3. **Responsabilidades de las Partes**
+   - Obligaciones y responsabilidades del proveedor de servicios.
+   - Obligaciones y responsabilidades del cliente.
+   - Puntos de contacto y escalamiento.
+
+### 4. **Procedimientos de Reporte**
+   - Frecuencia y formato de los reportes de rendimiento.
+   - Mecanismos para la entrega de informes y revisiones de SLA.
+
+### 5. **Gestión de Incidencias**
+   - Procedimientos para reportar y gestionar incidencias.
+   - Tiempos de respuesta y resolución de problemas.
+   - Procedimientos de escalamiento.
+
+### 6. **Penalizaciones y Compensaciones**
+   - Consecuencias en caso de incumplimiento de los niveles de servicio.
+   - Compensaciones o créditos para el cliente por incumplimientos.
+
+### 7. **Monitoreo y Revisión**
+   - Métodos y herramientas para monitorear el cumplimiento del SLA.
+   - Frecuencia de revisiones del SLA y ajustes necesarios.
+
+### 8. **Términos y Condiciones**
+   - Duración del acuerdo y condiciones de renovación.
+   - Políticas de terminación del servicio.
+   - Cláusulas de confidencialidad y seguridad.
+
+### 9. **Proceso de Revisión y Mejora Continua**
+   - Procedimientos para la revisión periódica del SLA.
+   - Mecanismos para la mejora continua y ajustes del servicio según sea necesario.
+
+### 10. **Definiciones y Glosario**
+   - Definiciones claras de términos clave utilizados en el SLA.
+   - Aclaraciones sobre métricas y parámetros.
 
 ## Presupuesto de IT (Capex y Opex)
 **Definición y Componentes:**
