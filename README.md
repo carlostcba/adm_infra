@@ -329,7 +329,7 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 
 - Base de datos que contiene información relevante acerca de los activos de hardware y software.
 
-# SLA (Service Level Agreement)
+## SLA (Service Level Agreement)
 
 ## Definición y Significado
 - Un SLA es un acuerdo entre un cliente y un proveedor que establece las pautas y métricas para el nivel de servicio esperado.
