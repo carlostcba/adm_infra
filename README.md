@@ -137,6 +137,111 @@
 
 ---
 
+# Norma Técnica y Compliance de IT
+
+## Norma Técnica
+
+### Concepto de Norma Técnica
+Una norma técnica es un documento aprobado por un organismo reconocido, que establece especificaciones técnicas precisas para ser utilizadas como guía para el desarrollo correcto de una actividad. Esto incluye actividades dentro de nichos de mercado, configuraciones de ambientes, y buenas prácticas como la instalación de un Data Center desde cero. Las normas técnicas especifican qué se debe cumplir en productos, procesos o servicios, y son elaboradas por consenso entre diferentes actores, como fabricantes, administradores, consumidores, laboratorios y centros de investigación.
+
+### Elaboración y Aplicación
+Las normas técnicas se basan en resultados de experiencias, buenas prácticas y desarrollo tecnológico. Estas normas pueden determinarse por el mercado, como fue el caso del blu-ray versus HD DVD. Ejemplos históricos de estándares en competencia incluyen la norma Ethernet y la 802.1x, donde una se impuso sobre la otra debido a la aceptación del mercado.
+
+### Características de las Normas Técnicas
+- **Consenso:** Las normas deben ser acordadas por todos los involucrados.
+- **Exactitud y Claridad:** Deben ser precisas, no ambiguas, y redactadas de forma clara y específica.
+- **Basadas en Ciencia y Experiencia:** Deben fundamentarse en resultados consolidados en un contexto dado.
+- **Beneficios Sociales:** Deben mejorar la calidad de vida y ser aprobadas por organismos reconocidos a nivel nacional, regional o internacional.
+- **Disponibilidad y Voluntariedad:** Las normas deben estar disponibles al público y ser voluntarias, salvo que alguna disposición legal las haga obligatorias.
+
+## Metodología PHVA (Plan-Do-Check-Act)
+
+### Pasos de la Metodología
+
+1. **Planificación:** Establecer objetivos y procesos para trabajar.
+2. **Hacer:** Implementar los procesos necesarios para cumplir con los objetivos.
+3. **Verificación:** Medir los resultados de la implementación para verificar si se alcanzaron los objetivos.
+4. **Actuar:** Analizar los resultados y buscar formas de mejorar continuamente.
+
+## IT Compliance
+
+### Concepto
+El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y políticas internas de la empresa, relativas a la tecnología, para evitar la vulneración de datos mediante ataques internos o externos.
+
+### Beneficios
+- **Mejora la Seguridad:** Establece requisitos que mantienen niveles de seguridad consistentes.
+- **Reducción de Riesgos Legales:** Evita multas y pagos compensatorios por violaciones de seguridad.
+- **Incremento del Control:** Previene errores y robos de información.
+- **Creación de Confianza:** Demuestra a los clientes el cumplimiento de normas y regulaciones para mantener sus datos seguros.
+
+### Retos en la Implementación de IT Compliance
+- **Resistencia Organizacional:** Superar la resistencia al cambio en la cultura de la empresa.
+- **Complejidad de las Regulaciones:** Comprender y desglosar regulaciones complejas.
+- **Costo de Compliance:** Justificar la inversión y medir el retorno de compliance y la inversión.
+- **Sobrecarga de Trabajo:** Manejar la carga adicional de trabajo que las nuevas políticas pueden generar.
+- **Fallos en el Monitoreo:** Asegurar que todos los procesos y políticas de compliance se implementen y ejecuten efectivamente.
+
+## Framework de Compliance
+
+### Componentes Principales
+
+1. **Cultura Organizacional:** Cambiar la mentalidad de los empleados hacia la aceptación y comprensión de las nuevas políticas.
+2. **Políticas y Procedimientos:** Establecer códigos de conducta para empleados y proveedores, y políticas de denuncia de irregularidades.
+3. **Entrenamiento y Comunicación:** Proveer entrenamiento obligatorio y comunicar regularmente para fortalecer el mensaje.
+4. **Procesos Claves de Compliance:** Contrastar políticas contra mejores prácticas, llevar a cabo la debida diligencia y revisar continuamente las políticas.
+5. **Relevamiento de Riesgos:** Evaluar y mitigar riesgos clave de compliance.
+6. **Recursos de Compliance:** Contar con un equipo dedicado y experimentado para implementar y ejecutar las políticas de compliance de manera efectiva.
+
+## Preguntas y Respuestas de Examen
+
+**1. ¿Qué es una norma técnica y quién la aprueba?**
+Una norma técnica es un documento aprobado por un organismo reconocido que establece especificaciones técnicas precisas para ser utilizadas como guía para el desarrollo correcto de una actividad. Estas especificaciones pueden aplicarse a productos, procesos o servicios, y son elaboradas por consenso entre diferentes actores, como fabricantes, administradores, consumidores, laboratorios y centros de investigación.
+
+*Ejemplo:* La norma ISO 9001 es una norma técnica internacionalmente reconocida que establece los requisitos para un sistema de gestión de calidad. Esta norma es aprobada por la Organización Internacional de Normalización (ISO).
+
+**2. ¿Cuáles son las características que debe tener una norma técnica?**
+- **Consenso:** Debe ser acordada por todos los involucrados.
+- **Exactitud y Claridad:** Debe ser precisa, no ambigua, y redactada de forma clara y específica.
+- **Basada en Ciencia y Experiencia:** Debe fundamentarse en resultados consolidados en un contexto dado.
+- **Beneficios Sociales:** Debe mejorar la calidad de vida y ser aprobada por organismos reconocidos a nivel nacional, regional o internacional.
+- **Disponibilidad y Voluntariedad:** Debe estar disponible al público y ser voluntaria, salvo que alguna disposición legal la haga obligatoria.
+
+*Ejemplo:* La norma IEEE 802.11, que define los estándares para redes inalámbricas Wi-Fi, cumple con todas estas características y ha sido adoptada globalmente por consenso entre fabricantes y usuarios.
+
+**3. Describa los pasos del ciclo PHVA.**
+- **Planificación:** Establecer objetivos y procesos para trabajar. Ejemplo: Identificar un proceso que demora 5 horas y planificar cómo reducirlo a 2 horas.
+- **Hacer:** Implementar los procesos necesarios para cumplir con los objetivos. Ejemplo: Ejecutar las optimizaciones planificadas.
+- **Verificación:** Medir los resultados de la implementación para verificar si se alcanzaron los objetivos. Ejemplo: Medir si el proceso ahora demora 2 horas.
+- **Actuar:** Analizar los resultados y buscar formas de mejorar continuamente. Ejemplo: Identificar nuevas áreas de mejora y planificar la siguiente iteración.
+
+**4. ¿Qué es IT Compliance y cuáles son sus beneficios?**
+El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y políticas internas de la empresa, relativas a la tecnología, para evitar la vulneración de datos mediante ataques internos o externos.
+- **Mejora la Seguridad:** Mantiene niveles de seguridad consistentes.
+- **Reducción de Riesgos Legales:** Evita multas y pagos compensatorios por violaciones de seguridad.
+- **Incremento del Control:** Previene errores y robos de información.
+- **Creación de Confianza:** Demuestra a los clientes el cumplimiento de normas y regulaciones para mantener sus datos seguros.
+
+*Ejemplo:* Una empresa que maneja datos sensibles de clientes implementa IT Compliance al seguir normas como ISO 27001 para la gestión de la seguridad de la información, lo que ayuda a prevenir brechas de seguridad y construir confianza con los clientes.
+
+**5. Mencione y explique los principales retos en la implementación de IT Compliance.**
+- **Resistencia Organizacional:** Superar la resistencia al cambio en la cultura de la empresa.
+- **Complejidad de las Regulaciones:** Comprender y desglosar regulaciones complejas.
+- **Costo de Compliance:** Justificar la inversión y medir el retorno de compliance y la inversión.
+- **Sobrecarga de Trabajo:** Manejar la carga adicional de trabajo que las nuevas políticas pueden generar.
+- **Fallos en el Monitoreo:** Asegurar que todos los procesos y políticas de compliance se implementen y ejecuten efectivamente.
+
+*Ejemplo:* Implementar un nuevo sistema de gestión de accesos y control de identidades puede generar resistencia entre los empleados acostumbrados a procedimientos anteriores. La empresa debe invertir en formación y comunicación para facilitar la transición.
+
+**6. ¿Cuáles son los componentes principales del framework de compliance?**
+- **Cultura Organizacional:** Cambiar la mentalidad de los empleados hacia la aceptación y comprensión de las nuevas políticas.
+- **Políticas y Procedimientos:** Establecer códigos de conducta para empleados y proveedores, y políticas de denuncia de irregularidades.
+- **Entrenamiento y Comunicación:** Proveer entrenamiento obligatorio y comunicar regularmente para fortalecer el mensaje.
+- **Procesos Claves de Compliance:** Contrastar políticas contra mejores prácticas, llevar a cabo la debida diligencia y revisar continuamente las políticas.
+- **Relevamiento de Riesgos:** Evaluar y mitigar riesgos clave de compliance.
+- **Recursos de Compliance:** Contar con un equipo dedicado y experimentado para implementar y ejecutar las políticas de compliance de manera efectiva.
+
+---
+
 ## Clase 3
 
 ### IT Compliance
@@ -216,5 +321,101 @@
 ### CMDB (Configuration Management DataBase)
 
 - Base de datos que contiene información relevante acerca de los activos de hardware y software.
+
+---
+
+# Temas y Conceptos Clave
+
+## SLA (Service Level Agreement)
+**Definición y Significado:**
+- Un SLA es un acuerdo entre un cliente y un proveedor que establece las pautas y métricas para el nivel de servicio esperado.
+- Ejemplo: Si el cliente contrata un servicio con un SLA del 99.9% de disponibilidad, significa que el proveedor debe garantizar que el servicio esté activo y funcionando el 99.9% del tiempo.
+
+**Métricas y Medición:**
+- **Disponibilidad:** Se mide en franjas horarias, como 24/7 o de lunes a viernes de 8 a 18.
+- **Tasa de Fallas:** Cantidad de errores o problemas en el servicio.
+- **Mantenimiento:** Ventanas de mantenimiento acordadas que no cuentan como tiempo de inactividad.
+
+**Componentes Administrativos:**
+- **Método de Medición:** Debe ser sencillo y no oneroso.
+- **Proceso de Reporte:** Frecuencia y métodos de monitoreo.
+- **Resolución de Disputas:** Procedimientos y cláusulas de indemnización.
+
+**Importancia del SLA:**
+- **Claridad y Entendimiento:** Asegura que ambas partes tengan el mismo entendimiento del acuerdo.
+- **Ejecución y Responsabilidades:** Define las responsabilidades y expectativas, y las sanciones en caso de incumplimiento.
+
+**Pregunta de Examen:**
+- ¿Qué significa SLA y por qué es importante en un contrato de servicios tecnológicos?
+  - **Respuesta:** SLA significa Service Level Agreement, y es importante porque establece las pautas y métricas para el nivel de servicio esperado, asegurando claridad y entendimiento entre el proveedor y el cliente.
+
+## Presupuesto de IT (Capex y Opex)
+**Definición y Componentes:**
+- **Opex (Operating Expenditure):** Costo operativo continuo, como el mantenimiento de servicios.
+  - **Ejemplo:** Pago mensual de servicios en la nube.
+- **Capex (Capital Expenditure):** Inversiones en nuevos equipos o soluciones.
+  - **Ejemplo:** Compra de nuevos servidores para reemplazar equipos obsoletos.
+
+**Importancia del Presupuesto:**
+- **Soporte a Objetivos:** Ayuda a lograr los objetivos fijados por la gerencia.
+- **Gestión de Recursos:** Asegura la disponibilidad de recursos necesarios para operaciones y crecimiento.
+
+**Pregunta de Examen:**
+- ¿Cuál es la diferencia entre Capex y Opex en un presupuesto de IT?
+  - **Respuesta:** Capex es el costo de inversión en nuevos equipos o soluciones, mientras que Opex es el costo operativo continuo de mantener servicios o soluciones existentes.
+
+## Metodología Kanban
+**Definición y Origen:**
+- Metodología creada por Toyota para mejorar la eficiencia en procesos de fabricación y aplicada ahora en gestión de proyectos.
+- **Significado en Japonés:** Kanban significa letrero.
+
+**Componentes y Funcionamiento:**
+- **Columnas:** Backlog (tareas a realizar), In Progress (tareas en curso), Done (tareas terminadas), Blocked (tareas bloqueadas).
+- **WIP (Work In Progress):** Cantidad máxima de tarjetas que se pueden trabajar en paralelo.
+- **Tarjetas:** Representan tareas o grupos de tareas que se pueden disgregar o agrupar.
+
+**Aplicaciones y Beneficios:**
+- **Identificación de Demanda:** Permite ver la carga de trabajo y los cuellos de botella.
+- **Colaboración en Tiempo Real:** Facilita la colaboración y la comunicación del equipo.
+
+**Pregunta de Examen:**
+- ¿Qué es Kanban y cómo ayuda en la gestión de proyectos?
+  - **Respuesta:** Kanban es una metodología de gestión de proyectos que utiliza tarjetas y columnas para visualizar y gestionar el flujo de trabajo, ayudando a identificar cuellos de botella y mejorar la eficiencia del equipo.
+
+## Cuadro de Mando Integral (Balanced Scorecard)
+**Definición y Propósito:**
+- Herramienta para la gestión estratégica que tiene en cuenta no solo indicadores financieros sino también otros aspectos clave de la empresa.
+- **Origen:** Ideada por Kaplan y Norton en los 90.
+
+**Perspectivas Clave:**
+- **Financiera:** Indicadores de salud financiera.
+- **Cliente:** Satisfacción y retención de clientes.
+- **Procesos Internos:** Eficiencia y calidad de los procesos.
+- **Aprendizaje y Crecimiento:** Satisfacción y desarrollo de empleados.
+
+**Beneficios:**
+- **Visión Integral:** Proporciona una visión completa de la situación de la empresa.
+- **Gestión de Estrategias:** Facilita la implementación y monitoreo del plan estratégico.
+- **Mejora Continua:** Permite identificar desviaciones y tomar acciones correctivas.
+
+**Pregunta de Examen:**
+- ¿Cuáles son las cuatro perspectivas del Cuadro de Mando Integral y qué mide cada una?
+  - **Respuesta:** Las cuatro perspectivas son: Financiera (salud financiera), Cliente (satisfacción y retención), Procesos Internos (eficiencia y calidad), Aprendizaje y Crecimiento (satisfacción y desarrollo de empleados).
+
+## CMDB (Configuration Management Database)
+**Definición y Función:**
+- Base de datos que contiene información sobre todos los activos de IT de la empresa, incluyendo Hardware, Software y documentación.
+- **CI (Configuration Item):** Cada activo dentro de la CMDB.
+
+**Beneficios:**
+- **Optimización de Costos:** Facilita el recambio tecnológico y gestión de licencias.
+- **Mejora de Calidad de Servicio:** Proporciona una vista organizada de los activos y sus relaciones.
+- **Gestión de Cambios:** Ayuda a planificar y ejecutar cambios con menor riesgo.
+- **Disponibilidad de Consulta:** Permite una administración eficaz de la infraestructura tecnológica.
+
+**Pregunta de Examen:**
+- ¿Qué es una CMDB y para qué se utiliza en IT?
+  - **Respuesta:** Una CMDB es una base de datos de administración de configuración que contiene información sobre todos los activos de IT de la empresa, utilizada para optimizar costos, mejorar la calidad del servicio y gestionar cambios de manera efectiva.
+
 
 ---
