@@ -145,8 +145,6 @@
 
 ---
 
-# Norma Técnica y Compliance de IT
-
 ## Norma Técnica
 
 ### Concepto de Norma Técnica
@@ -338,10 +336,6 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 ### CMDB (Configuration Management DataBase)
 
 - Base de datos que contiene información relevante acerca de los activos de hardware y software.
-
----
-
-# Temas y Conceptos Clave
 
 # SLA (Service Level Agreement)
 
