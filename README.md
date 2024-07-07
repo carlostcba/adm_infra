@@ -477,3 +477,98 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 
 
 ---
+
+# Unidad 2 - Clase 4: Gobierno de IT
+
+---
+
+## Clase 4
+
+## Pregunta sobre trabajo práctico y estructura de normas
+
+**Pregunta de Gastón sobre el trabajo práctico y estructura de normas**:
+- Gastón preguntó si dentro de los lineamientos de la estructura de la norma y el resumen de requerimientos son lo mismo.
+- Mencionó que PCI DSS tiene 12 requerimientos y PSC tiene 14, lo cual puede ser confuso.
+
+**Respuesta a la pregunta de Gastón**:
+- En varios casos, la estructura de la norma y los requerimientos pueden ser lo mismo, pero no siempre.
+- Ejemplo de leyes y normativas: la estructura de una norma se refiere a su constitución (artículos, fascículos, secciones), mientras que los requerimientos son las necesidades específicas para el cliente.
+- En PCI DSS, la estructura refiere a artículos y secciones, mientras que los requerimientos son las necesidades del cliente, como tener un órgano de control y auditorías internas.
+  
+**Pregunta de examen**: ¿Cuál es la diferencia entre estructura y requerimientos en una norma?
+- **Respuesta**: La estructura se refiere a cómo está constituida la norma (artículos, secciones), mientras que los requerimientos son las necesidades específicas que la norma impone al cliente.
+
+## Introducción a la unidad 2: Gobierno de IT
+
+
+
+**Definición de Gobierno de IT**:
+- El gobierno de IT son las acciones que realiza el área de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
+- Asegura que la inversión en tecnología sea óptima, que esté alineada con la estrategia del negocio y que entregue valor bajo límites de riesgos aceptables.
+- Considera la cultura organizacional, la estructura organizacional y la madurez del gobierno de IT para implementar estrategias efectivas.
+
+**Relación con IT Compliance y CMI**:
+- **IT Compliance**: El gobierno de IT asegura que la organización cumple con todas las regulaciones y normativas aplicables, como SOC, PCI DSS, ISO 27000, entre otras. Esto es esencial para mantener la conformidad legal y regulatoria.
+- **CMI (Cuadro de Mando Integral)**: Al igual que el CMI, el gobierno de IT no solo se enfoca en aspectos financieros, sino también en factores intangibles que afectan el valor de la organización, como la eficiencia operativa y el cumplimiento normativo.
+
+**Pregunta de examen**: ¿Qué es el gobierno de IT?
+- **Respuesta**: El gobierno de IT son las acciones que realiza el área de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
+
+## Estadios de madurez del gobierno de IT
+
+**Estadios de madurez del gobierno de IT**:
+- Etapa 1: Ad hoc (procesos informales, inversión basada en costumbre).
+- Etapa 2: Fragmentado (procesos formalizados parcialmente).
+- Etapa 3: Consistencia (procesos maduros, gobierno de IT instaurado).
+- Etapa 4: Buenas prácticas (procesos optimizados).
+  
+**Pregunta de examen**: ¿Cuáles son las etapas de madurez del gobierno de IT?
+- **Respuesta**: Las etapas de madurez son Ad hoc, Fragmentado, Consistencia, y Buenas prácticas.
+
+## Competencias básicas del gobierno de IT
+
+**Competencias básicas del gobierno de IT**:
+- Gestión de la demanda.
+- Gestión de las relaciones.
+- Gestión financiera.
+- Gestión del portafolio.
+- Gestión de la arquitectura.
+- Estrategia de IT.
+  
+**Pregunta de examen**: ¿Cuáles son las competencias básicas del gobierno de IT?
+- **Respuesta**: Las competencias básicas del gobierno de IT son la gestión de la demanda, gestión de las relaciones, gestión financiera, gestión del portafolio, gestión de la arquitectura y la estrategia de IT.
+
+## Áreas de enfoque del gobierno de IT
+
+**Áreas de enfoque del gobierno de IT**:
+- Alineación estratégica.
+- Entrega de valor.
+- Gestión de recursos.
+- Gestión de riesgos.
+- Medición de desempeño.
+  
+**Pregunta de examen**: ¿Cuáles son las áreas de enfoque del gobierno de IT?
+- **Respuesta**: Las áreas de enfoque son alineación estratégica, entrega de valor, gestión de recursos, gestión de riesgos y medición de desempeño.
+
+## Factores inductores y críticos para implementar el gobierno de IT
+
+**Factores inductores**:
+- Regulaciones y normativas.
+- Optimización de recursos.
+- Peticiones del negocio.
+  
+**Pregunta de examen**: ¿Qué es un factor inductor del gobierno de IT?
+- **Respuesta**: Un factor inductor es algo que induce a una organización a implementar el gobierno de IT, como regulaciones, optimización de recursos y peticiones del negocio.
+
+**Factores críticos**:
+- Conocer los objetivos y evitar la improvisación.
+- Dotar de herramientas adecuadas.
+- Establecer mecanismos de medición y control.
+- Adecuación de soluciones a medida.
+- Alinearse con las iniciativas en curso.
+- No perderse en los modelos y adecuar el modelo al marco temporal.
+  
+**Pregunta de examen**: ¿Qué es un factor crítico del gobierno de IT?
+- **Respuesta**: Un factor crítico es algo que debe estar presente para que el gobierno de IT funcione, como conocer los objetivos, tener herramientas adecuadas, establecer mecanismos de medición y control, adecuar soluciones a medida y alinearse con las iniciativas en curso.
+
+
