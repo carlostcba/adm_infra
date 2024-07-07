@@ -36,8 +36,6 @@
 
 ---
 
-## Preguntas y Respuestas sobre el Área de TI
-
 ### ¿Cuál ha sido la evolución del área de TI en las empresas y su importancia actual?
 **Respuesta:** La evolución del área de TI ha sido significativa, pasando de ser un mero soporte técnico a convertirse en un componente crucial del negocio. Hoy en día, TI es esencial para casi todas las operaciones comerciales, especialmente con el auge del trabajo remoto impulsado por la pandemia. Sin TI, muchas empresas no podrían funcionar adecuadamente.
 
