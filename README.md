@@ -620,12 +620,12 @@ La versión 2, lanzada en 1999, consolidó estas publicaciones en 10, enfocándo
 
 En 2019, se lanzó la versión 4, que incorpora metodologías ágiles y DevOps, enfocándose en la colaboración e integración de actores y en conceptos como costos, resultados, riesgos y valor.
 
-## Comparación de ITIL v1 y v2, v2 y v3, y v3 y v4
+## Comparación de ITIL
 
 | **Aspecto**             | **ITIL v1**                                 | **ITIL v2**                                 | **ITIL v3**                                 | **ITIL v4**                                 |
 |-------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
 | **Lanzamiento**         | 1989                                       | 2000                                       | 2007                                       | 2019                                       |
-| **Estructura**          | 31 libros cubriendo diferentes áreas       | 7 libros principales divididos en dos conjuntos (Soporte de Servicio y Entrega de Servicio) | 5 libros principales (Ciclo de Vida del Servicio) | 4 dimensiones del manejo de servicios y 34 prácticas |
+| **Estructura**          | mas de 40 libros cubriendo diferentes áreas       | 7 libros principales divididos en dos conjuntos (Soporte de Servicio y Entrega de Servicio) | 5 libros principales (Ciclo de Vida del Servicio) | 4 dimensiones del manejo de servicios y 34 prácticas |
 | **Enfoque principal**   | Mejores prácticas para gestión de servicios de TI | Mejora en la eficiencia operativa y gestión de servicios | Ciclo de vida del servicio, integrando estrategia, diseño, transición, operación y mejora continua | Integración con prácticas modernas (Agile, DevOps, Lean) y enfoque en la creación de valor |
 | **Procesos**            | Básico, no estructurado formalmente        | Introducción de procesos definidos como Gestión de Incidentes, Problemas, Cambios, Configuración, etc. | Expansión a 26 procesos en total, incluyendo gestión de eventos, acceso, solicitudes, etc. | Introducción de prácticas flexibles, adaptables y enfoque en valor, además de prácticas como gestión de activos, incidentes, y problemas |
 | **Evolución tecnológica** | Limitada, centrada en mainframes y sistemas básicos | Incorporación de tecnologías más avanzadas y estructuras de TI modernas | Alineación con tecnología moderna, virtualización, y tendencias de outsourcing | Enfoque en digitalización, transformación digital y nuevas tecnologías emergentes (cloud, AI, etc.) |
