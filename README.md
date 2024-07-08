@@ -58,7 +58,7 @@
 
 ### ¿Cuáles son las principales herramientas de gestión mencionadas en la clase y su propósito?
 **Respuesta:** Las principales herramientas de gestión mencionadas son:
-- **Kanban (CAM):** Para organizar el trabajo diario en equipos.
+- **Kanban (Tarjeta):** Para organizar el trabajo diario en equipos.
 - **Cuadro de Mando Integral (CMI):** Para la estrategia a mediano y largo plazo, utilizado principalmente por niveles de coordinación y alta gerencia.
 - **Base de Datos de Gestión de la Configuración (CMDB):** Para el inventario de activos tecnológicos y la mejora continua.
 
