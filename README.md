@@ -678,7 +678,7 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 3. **Socios y Proveedores:** Gestión de relaciones con socios y proveedores, incluyendo contratos y acuerdos.
 4. **Flujos de Valor y Procesos:** Define actividades, flujos de trabajo y procesos necesarios para alcanzar objetivos organizacionales.
 
-# Enfoques de ITIL v4
+## Enfoques de ITIL v4
 
 ## 1. Organizaciones y Personas
 
@@ -743,6 +743,70 @@ Estos enfoques se complementan con los siete principios rectores de ITIL v4:
 
 **Factores Externos:**
 Estas dimensiones están influenciadas por factores políticos, económicos, sociales, tecnológicos, legales y ambientales (modelo PESTLE).
+
+## Conceptos Básicos de ITIL v4
+
+## 1. Sistema de Valor del Servicio (SVS)
+
+El Sistema de Valor del Servicio de ITIL v4 muestra cómo los diferentes componentes y actividades de una organización trabajan juntos para facilitar la creación de valor a través de servicios.
+
+**Componentes del SVS**:
+- **Principios rectores**: Siete principios que guían la toma de decisiones y las acciones dentro del sistema.
+- **Gobernanza**: La forma en que una organización se dirige y controla.
+- **Cadena de valor del servicio**: Un modelo operativo que describe las actividades clave necesarias para responder a la demanda y facilitar la creación de valor.
+- **Prácticas**: Conjuntos de recursos organizacionales diseñados para realizar un trabajo o lograr un objetivo.
+- **Mejora continua**: Una actividad recurrente que las organizaciones realizan en todos los niveles para asegurar que el rendimiento de los servicios y productos se mantenga alineado con las expectativas cambiantes.
+
+## 2. Las Cuatro Dimensiones de la Gestión de Servicios
+
+Las cuatro dimensiones de ITIL v4 proporcionan una visión holística que asegura que los servicios sean efectivos y eficientes:
+
+### 1. Organizaciones y Personas
+- **Enfoque**: Estructuras organizativas, la cultura y las capacidades de las personas.
+- **Importancia**: Cultura organizacional y desarrollo continuo de habilidades.
+
+### 2. Información y Tecnología
+- **Enfoque**: Gestión de la información y la tecnología que apoyan la entrega y gestión de servicios.
+- **Importancia**: Arquitectura de la información, seguridad, y tecnologías emergentes.
+
+### 3. Socios y Proveedores
+- **Enfoque**: Relación y gestión de proveedores y socios externos.
+- **Importancia**: Colaboración y gestión de contratos para la entrega de servicios.
+
+### 4. Flujos de Valor y Procesos
+- **Enfoque**: Actividades, flujos de trabajo, controles y procedimientos necesarios para lograr los objetivos de la gestión de servicios.
+- **Importancia**: Optimización y mejora continua de procesos y flujos de trabajo.
+
+## 3. Los Siete Principios Rectores
+
+Estos principios proporcionan una guía para las organizaciones en todas las circunstancias, independientemente de los cambios en sus objetivos, estrategias, tipo de trabajo o estructura de gestión:
+
+1. **Enfocarse en el valor**: Todo lo que hace una organización debe vincularse directa o indirectamente al valor para sus partes interesadas.
+2. **Empezar donde estás**: No comenzar desde cero, sino evaluar el estado actual y decidir qué se puede reutilizar para avanzar.
+3. **Progresar iterativamente con retroalimentación**: Dividir el trabajo en secciones manejables, iterar y mejorar continuamente.
+4. **Colaborar y promover la visibilidad**: Involucrar a las partes interesadas y mejorar la transparencia.
+5. **Pensar y trabajar de manera holística**: Entender cómo todas las partes de la organización trabajan juntas en un sistema de servicios.
+6. **Mantenerlo simple y práctico**: Evitar la complejidad innecesaria y buscar la simplicidad en el diseño de procesos y servicios.
+7. **Optimizar y automatizar**: Utilizar la tecnología para realizar tareas de la manera más eficiente posible, reduciendo el esfuerzo manual.
+
+## 4. Prácticas de Gestión de ITIL
+
+ITIL v4 incluye 34 prácticas que reemplazan los procesos de versiones anteriores. Estas prácticas están divididas en tres categorías:
+
+### Prácticas de Gestión General
+- Mejora continua
+- Gestión de riesgos
+- Gestión de la seguridad de la información
+
+### Prácticas de Gestión de Servicios
+- Gestión de incidentes
+- Gestión de cambios
+- Gestión de niveles de servicio
+
+### Prácticas de Gestión Técnica
+- Gestión de despliegue
+- Gestión de infraestructura y plataforma
+- Gestión de desarrollo de software
 
 **Preguntas de Examen:**
 - ¿Cuáles son las cuatro dimensiones de ITIL 4?
