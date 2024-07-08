@@ -877,6 +877,44 @@ La mejora continua incluye prácticas de gestión específicas que forman parte 
 
 ITIL se relaciona con enfoques como Lean, Agile y DevOps, que buscan la eliminación de ineficiencias, mejoras incrementales y aseguramiento de mejoras bien diseñadas y eficaces. Estos enfoques son importantes para mantener la mejora continua alineada con las necesidades del negocio y del mercado.
 
+### Agile
+Agile es una metodología de gestión de proyectos y desarrollo de software que se centra en la entrega iterativa e incremental. Los principios fundamentales de Agile son:
+1. **Personas y relaciones sobre procesos y herramientas.**
+2. **Software funcionando sobre documentación extensiva.**
+3. **Colaboración con el cliente sobre negociación de contratos.**
+4. **Responder al cambio sobre seguir un plan.**
+
+Frameworks populares: Scrum, Kanban, Extreme Programming (XP).
+
+### DevOps
+DevOps es una cultura y conjunto de prácticas que unen el desarrollo de software (Development) y las operaciones de TI (Operations) para mejorar la colaboración y acelerar la entrega de software. Las prácticas clave incluyen:
+1. **Integración Continua (CI)**
+2. **Entrega Continua (CD)**
+3. **Infraestructura como Código (IaC)**
+4. **Monitoreo y Logging**
+
+### Lean
+Lean es una filosofía de gestión que maximiza el valor entregado al cliente mientras se minimizan los desperdicios. Sus principios clave son:
+1. **Eliminar Desperdicio**
+2. **Mejora Continua (Kaizen)**
+3. **Entrega Justo a Tiempo**
+4. **Respeto por las Personas**
+
+## Diferencias y Complementariedad
+
+### Diferencias
+- **Agile**: Se enfoca en la flexibilidad y la entrega rápida de productos mediante iteraciones cortas. Es ideal para manejar cambios y asegurar la satisfacción del cliente.
+- **DevOps**: Extiende Agile al incluir operaciones de TI, asegurando una entrega de software rápida, eficiente y de alta calidad. Se centra en la automatización y la integración continua.
+- **Lean**: Se originó en la manufactura y se adapta al desarrollo de software. Se enfoca en la eliminación de desperdicios y la mejora continua en todos los procesos.
+
+### Complementariedad
+- **Agile** proporciona la metodología para desarrollar y entregar software de forma iterativa y flexible.
+- **DevOps** complementa Agile al mejorar la colaboración entre desarrollo y operaciones, lo que resulta en una entrega continua y de alta calidad.
+- **Lean** complementa ambos al enfocarse en la eficiencia y la eliminación de desperdicios, asegurando que cada proceso añada valor y mejore continuamente.
+
+Estas metodologías y prácticas a menudo se utilizan en conjunto para mejorar la eficiencia y la calidad del desarrollo y entrega de software.
+
+
 ### Preguntas de examen:
 
 1. **¿Cuántas prácticas de gestión incluye el sistema de valor de servicio de ITIL?**
